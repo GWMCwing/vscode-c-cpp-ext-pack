@@ -3,6 +3,11 @@
   "displayName": "My C/CPP Extension Pack",
   "description": "Custom C/CPP Extension pack",
   "version": "0.0.1",
+  "publisher": "GW_MC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GWMCwing/c-cpp-ext-pack"
+  },
   "engines": {
     "vscode": "^1.73.0"
   },
